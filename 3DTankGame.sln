@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DTankGame", "3DTankGame.vcxproj", "{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}.Debug|x64.ActiveCfg = Debug|x64
+		{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}.Debug|x64.Build.0 = Debug|x64
+		{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}.Debug|x86.Build.0 = Debug|Win32
+		{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}.Release|x64.ActiveCfg = Release|x64
+		{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}.Release|x64.Build.0 = Release|x64
+		{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}.Release|x86.ActiveCfg = Release|Win32
+		{EA69A39A-8697-4D25-9DBE-27AA66D7A93E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {745D7701-717B-475C-A091-1E726F9A6B3A}
+	EndGlobalSection
+EndGlobal
