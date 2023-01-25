@@ -1,10 +1,10 @@
 # 3D Tank Game
 
-A 3D Tank Game developed using C++ and OpenGL for my Computer Vision and Graphics (EEE2041) course final project.
+A 3D Tank Game developed using C++ and OpenGL.
 
 ## Description
 
-The program is a basic 3D tank game developed with C++ and OpenGL GLEW and GLUT libraries, the program applies different techniques learned throughout the computer vision and graphics module. The repository contains all the required dependencies and the Visual Studio solution is already configured to run the program.
+The program is a basic 3D tank game developed with C++ and OpenGL GLEW and GLUT libraries. The repository contains all the required dependencies and the Visual Studio solution is already configured to run the program.
 
 ## Getting Started
 
